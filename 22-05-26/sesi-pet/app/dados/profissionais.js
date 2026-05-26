@@ -1,3 +1,4 @@
+
 export const profissionais = [
   { id: '1', nome: 'Dra. Camila', especialidade: 'Banho e tosa' },
   { id: '2', nome: 'Dr. Rafael', especialidade: 'Veterinário' },
